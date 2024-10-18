@@ -6,8 +6,8 @@ const App = () => {
 
   return (
     <>
-  <h1>Hello George</h1>
-  <Bookshelf/>
+  <h1 className='h1'>My Bookshelf</h1>
+  <Bookshelf />
     </>
   );
 }
