@@ -26,7 +26,7 @@ const Bookshelf = () => {
 
     setBookData({
       title: "",
-      author: "P"
+      author: ""
     });
   };
 
